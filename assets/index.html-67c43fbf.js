@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2d0a224d","path":"/Js/","title":"js 知识站","lang":"en-US","frontmatter":{"sidebar":"auto"},"headers":[{"level":3,"title":"websocket 知识站","slug":"websocket-知识站","link":"#websocket-知识站","children":[]}],"git":{},"filePathRelative":"Js/README.md"}');export{e as data};

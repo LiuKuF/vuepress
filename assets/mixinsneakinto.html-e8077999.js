@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-29f77784","path":"/vue/mixinsneakinto.html","title":"mixin 混入","lang":"en-US","frontmatter":{"sidebar":"auto"},"headers":[],"git":{},"filePathRelative":"vue/mixinsneakinto.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as n,a as e,b as o}from"./app-a7b04161.js";const c={},r=e("h3",{id:"python-基本使用",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#python-基本使用","aria-hidden":"true"},"#"),o(" Python 基本使用")],-1),s=[r];function _(d,h){return a(),n("div",null,s)}const l=t(c,[["render",_],["__file","index.html.vue"]]);export{l as default};
